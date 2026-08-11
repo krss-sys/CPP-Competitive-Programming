@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `NC_05_Top_K_Frequent_Elements.cpp` (NeetCode 150).
+> * Solved `NC_06_Encode_and_Decode_Strings.cpp` (NeetCode 150).
