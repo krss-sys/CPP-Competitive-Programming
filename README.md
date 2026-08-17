@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `NC_06_Encode_and_Decode_Strings.cpp` (NeetCode 150).
+> * Solved `NC_07_Products_of_Array_Except_Self.cpp` (NeetCode 150).
