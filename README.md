@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `NC_07_Products_of_Array_Except_Self.cpp` (NeetCode 150).
+> * Solved `NC_08_Valid_Sudoku.cpp` (NeetCode 150).
