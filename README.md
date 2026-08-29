@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `NC_08_Valid_Sudoku.cpp` (NeetCode 150).
+> * Solved `NC_09_Longest_Consecutive_Sequence.cpp` (NeetCode 150).
