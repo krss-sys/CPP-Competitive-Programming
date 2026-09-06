@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `NC_01_Valid_Palindrome.cpp` (NeetCode 150).
+> * Solved `NC_02_Two_Integer_Sum_II.cpp` (NeetCode 150).
