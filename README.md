@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `NC_02_Two_Integer_Sum_II.cpp` (NeetCode 150).
+> * Solved `NC_03_3Sum.cpp` (NeetCode 150).
