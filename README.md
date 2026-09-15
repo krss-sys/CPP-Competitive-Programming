@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `NC_03_3Sum.cpp` (NeetCode 150).
+> * Solved `NC_04_Container_With_Most_Water.cpp` (NeetCode 150).
