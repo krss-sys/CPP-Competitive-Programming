@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `NC_01_Best_Time_to_Buy_and_Sell_Stock.cpp` (NeetCode 150).
+> * Solved `NC_02_Longest_Substring_Without_Repeating_Characters.cpp` (NeetCode 150).
