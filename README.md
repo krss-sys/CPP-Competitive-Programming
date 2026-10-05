@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `NC_02_Longest_Substring_Without_Repeating_Characters.cpp` (NeetCode 150).
+> * Solved `NC_03_Longest_Repeating_Character_Replacement.cpp` (NeetCode 150).
