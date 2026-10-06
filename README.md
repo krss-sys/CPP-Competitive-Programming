@@ -42,9 +42,9 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 🎯 Roadmap: NeetCode 150 Progress
 
-* [x] **Arrays & Hashing** (5 / 9)
-* [ ] **Two Pointers** (0 / 5)
-* [ ] **Sliding Window** (0 / 6)
+* [x] **Arrays & Hashing** (9 / 9)
+* [x] **Two Pointers** (5 / 5)
+* [x] **Sliding Window** (3 / 6)
 * [ ] **Stack** (0 / 6)
 * [ ] **Binary Search** (0 / 7)
 * [ ] **Linked List** (0 / 11)
@@ -68,9 +68,3 @@ CPP-COMPETITIVE-PROGRAMMING/
 * **Language:** C++23 (GCC 15.2.0) / Modern C++
 * **Environment:** WSL2 (Ubuntu) + VS Code
 * **Platforms:** AtCoder, LeetCode
-
----
-
-### 📝 Dev Log
-
-> * Solved `NC_03_Longest_Repeating_Character_Replacement.cpp` (NeetCode 150).
